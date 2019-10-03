@@ -1,8 +1,8 @@
-Курсова робота 
-студента групи ІС-62
-Ащепкової Д.К.
+РљСѓСЂСЃРѕРІР° СЂРѕР±РѕС‚Р° 
+СЃС‚СѓРґРµРЅС‚Р° РіСЂСѓРїРё Р†РЎ-62
+РђС‰РµРїРєРѕРІРѕС— Р”.Рљ.
 
-Дана папка містить Report_Ashchepkova_IS62.docx - пояснювална записка
-Ashchepkova_IS62 - папка з проектом
+Digital catalogue on C# WPF. IDE Visual Studio 2013, database SQL Lite. Catalogue of table games, you can
+filter, add, delete, sort items.
 
  
