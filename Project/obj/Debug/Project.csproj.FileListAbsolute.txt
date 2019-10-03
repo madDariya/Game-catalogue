@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\Курсач\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Курсач\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Курсач\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.Author.resources
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.Menu.resources
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.Proprog.resources
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Курсач\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Курсач\Project\Project\bin\Debug\catalog.mdb
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\bin\Debug\catalog.mdb
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\bin\Debug\Project.exe.config
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\bin\Debug\Project.exe
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\bin\Debug\Project.pdb
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.Author.resources
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.Main.resources
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.Menu.resources
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.Proprog.resources
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.exe
+C:\Users\dariy\Desktop\КПИ\2 курс\ООП\Курсач\Ashchepkova_IS62\Project\obj\Debug\Project.pdb
